@@ -1,0 +1,7 @@
+# ninja log v5
+1	393	7217882432622436	CMakeFiles/Lab_2_Bandit.dir/main.c.obj	e137fb828504970f
+6	1029	7217882438985716	CMakeFiles/Lab_2_Bandit.dir/game.c.obj	f22ccad771516849
+1030	1388	7217882442536704	Lab_2_Bandit.exe	fe557346fd3973a0
+3	129	7217882699531063	CMakeFiles/Lab_2_Bandit.dir/main.c.obj	e137fb828504970f
+8	140	7217882699650744	CMakeFiles/Lab_2_Bandit.dir/game.c.obj	f22ccad771516849
+140	323	7217882701437029	Lab_2_Bandit.exe	fe557346fd3973a0
